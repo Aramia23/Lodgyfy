@@ -1,0 +1,24 @@
+{  
+  "usd":
+  { 
+    "dropValue":"usd",
+    "starterUsd50yearly": "$64",
+    "professionalUsd50yearly": "$375",
+    "ultimateUsd50yearly": "$525"
+  },
+  "eur":
+  { 
+    "dropValue":"eur",
+    "starterEur50yearly": "60€",
+    "professionalEur50yearly": "330€",
+    "ultimateEur50yearly": "466€"
+  },
+  "lib":
+  { 
+    "dropValue":"gbp",
+    "starterLib50yearly": "£51",
+    "professionalLib50yearly": "£294",
+    "ultimateLib50yearly": "£414"
+  }
+
+}
