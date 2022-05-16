@@ -1,0 +1,7 @@
+TestCase = Verify right plan value 50 rentals
+
+Steps
+1. User in /pricing.html
+2. Choose 50 rentals
+3. Expected value for Ultimate plan = $525 
+   Value received = $510
